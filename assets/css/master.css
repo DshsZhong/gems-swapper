@@ -157,29 +157,35 @@ body {
 /*RED*/
 #game .row.type-1 {
 	background-color: #E81C36;
+	content: url("https://thx-timmy.ml/meta/2.jpg")
 }
 
 /*ORANGE*/
 #game .row.type-2 {
 	background-color: #FFC300;
+	content: url("https://thx-timmy.ml/meta/4.jpg")
 }
 
 /*BLUE*/
 #game .row.type-3 {
 	background-color: #2868C7;
+	content: url("https://thx-timmy.ml/meta/8.jpg")
 }
 
 /*green*/
 #game .row.type-4 {
 	background-color: #25CF6B;
+	content: url("https://thx-timmy.ml/meta/16.jpg")
 }
 
 /*PURPLE*/
 #game .row.type-5 {
 	background-color: #8F2BB3;
+	content: url("https://thx-timmy.ml/meta/32.jpg")
 }
 
 /*BLACK*/
 #game .row.type-6 {
 	background-color: #4A3E4F;
+	content: url("https://thx-timmy.ml/meta/64.jpg")
 }
